@@ -3,8 +3,12 @@
     internal class Program
     {
         static void Main(string[] args)
+
+
         {
-            Console.WriteLine("Hello, World!");
+
+            var s = "Hello, World!";            // This is a comment
+            Console.WriteLine("s");
         }
     }
 }
